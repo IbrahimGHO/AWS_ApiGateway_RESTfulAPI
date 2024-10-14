@@ -1,6 +1,6 @@
 
-# AWS HTTP API
-Full CRUD APP in AWS utlizing API gateway , Lambda Funtion , DynamoDB 
+# AWS API Gateway RESTful API 
+Full CRUD APP in AWS utilizing API gateway , Lambda Function , DynamoDB 
 
 
 ## AWS Architecture 
